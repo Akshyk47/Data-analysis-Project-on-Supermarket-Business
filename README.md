@@ -3,3 +3,5 @@ This project is about exploring the supermarket business,interpreting the analys
 In this project I have used Python and its libraries like pandas,matplotlib 
 
 ![image](https://user-images.githubusercontent.com/89252200/149665891-f8cb7a95-ad4c-4da0-9d0d-94d0aa38d3e0.png)
+
+Check out the Data Exploration reports for understanding the analysis.
